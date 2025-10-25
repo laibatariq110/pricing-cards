@@ -329,6 +329,12 @@ h3 {
   .features li {
     font-size: 0.95rem;
   }
+
+  .quote i {
+    top: 15px;
+    left: 15px;
+    font-size: 1.8rem;
+  }
 }
 
 @media (max-width: 768px) {
@@ -397,6 +403,12 @@ h3 {
     padding: 25px;
   }
 
+ .quote i {
+    top: 12px;
+    left: 12px;
+    font-size: 1.6rem;
+  }
+
   .quote p {
     font-size: 1rem;
   }
@@ -430,6 +442,12 @@ h3 {
 
   .quote {
     padding: 20px;
+  }
+
+ .quote i {
+    top: 10px;
+    left: 10px;
+    font-size: 1.4rem;
   }
 
   .quote p {
